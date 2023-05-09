@@ -7,32 +7,32 @@ You can click the Preview link to take a look at your changes.
 [Project]
 =============
 ### POSTECH_IN_THE_SKY
-  HTML, CSS, React, TypeScript
+    HTML, CSS, React, TypeScript
   
 ### Travel_To_Find_Me
-  Lua
+    Lua
   
 ### Scalegame(Ponder)
-  Unity
+    Unity
   
 
 
 [Class]
 ==============
 ### Object-Oriented Programming
-  C++
+    C++
   
 ### Data Structure
-  C++
+    C++
   
 ### Introduction of Data Analysis
-  Python
+    Python
   
 ### Introduction of Computer SW System
-  C++, Assembly
+    C++, Assembly
   
 
 ### Computer Structure
-  Verilog
+    Verilog
 ### Algorithm
-  C++(Python)
+    C++(Python)
