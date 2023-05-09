@@ -5,19 +5,34 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [Project]
-POSTECH_IN_THE_SKY
+=============
+### POSTECH_IN_THE_SKY
   HTML, CSS, React, TypeScript
-Travel_To_Find_Me
+  
+### Travel_To_Find_Me
   Lua
-Scalegame(Ponder)
+  
+### Scalegame(Ponder)
   Unity
   
 
-[Class]
-Object-Oriented Programming
-Data Structure
-Introduction of Data Analysis
-Introduction of Computer SW System
 
-Computer Structure
-Algorithm
+[Class]
+==============
+### Object-Oriented Programming
+  C++
+  
+### Data Structure
+  C++
+  
+### Introduction of Data Analysis
+  Python
+  
+### Introduction of Computer SW System
+  C++, Assembly
+  
+
+### Computer Structure
+  Verilog
+### Algorithm
+  C++(Python)
