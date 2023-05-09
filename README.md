@@ -3,3 +3,21 @@
 jyjin0205/jyjin0205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[Project]
+POSTECH_IN_THE_SKY
+  HTML, CSS, React, TypeScript
+Travel_To_Find_Me
+  Lua
+Scalegame(Ponder)
+  Unity
+  
+
+[Class]
+Object-Oriented Programming
+Data Structure
+Introduction of Data Analysis
+Introduction of Computer SW System
+
+Computer Structure
+Algorithm
